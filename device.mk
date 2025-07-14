@@ -70,6 +70,10 @@ PRODUCT_PACKAGES += \
 # Reduce system server verbosity
 PRODUCT_SYSTEM_SERVER_DEBUG_INFO := false
 
+# Remove unwanted packages
+PRODUCT_PACKAGES += \
+    RemovePackages
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
