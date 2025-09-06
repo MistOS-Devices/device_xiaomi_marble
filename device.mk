@@ -65,7 +65,7 @@ PRODUCT_PACKAGES += \
     SettingsResMarble \
     SystemUIResMarble \
     WifiResMarble \
-    WifiResMarbleCN \
+    WifiResMarbleCN
 
 # Reduce system server verbosity
 PRODUCT_SYSTEM_SERVER_DEBUG_INFO := false
