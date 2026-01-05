@@ -18,6 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="lunaris_device_message">POCO F5</string>
     <string name="lunaris_processor_code_message">Snapdragon™ 7+ Gen 2</string>
-    <string name="lunaris_battery_type_message">5000mAh</string>
+    <string name="lunaris_battery_type_message">5000 mAh</string>
     <string name="lunaris_screen_message">6.67 • 120Hz • OLED</string>
 </resources>
