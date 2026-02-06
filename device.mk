@@ -35,6 +35,10 @@ PRODUCT_COPY_FILES += \
 # Light
 $(call soong_config_set,xiaomi_sm8450_sensor_notifier,extension_lib,//device/xiaomi/marble:libsensor-notifier-ext-light)
 
+#Maintainer Flag
+PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
+    ro.lunaris.maintainer=Dhanush
+
 # Logging
 SPAMMY_LOG_TAGS := \
     MiStcImpl \
