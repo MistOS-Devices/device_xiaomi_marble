@@ -30,3 +30,6 @@ echo 'Signing'
 
 echo 'Gamebar'
     git clone https://github.com/dhanush281/packages_apps_GameBar packages/apps/GameBar 
+
+echo 'Firmware'
+    git clone https://github.com/dhanush281/proprietary_vendor_xiaomi_marble-firmware vendor/xiaomi/marble-firmware
