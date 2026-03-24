@@ -1,0 +1,68 @@
+[
+  {
+    "repository": "dhanush281/android_device_xiaomi_sm8450-common",
+    "target_path": "device/xiaomi/sm8450-common",
+    "branch": "16.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "dhanush281/android_device_xiaomi_miuicamera-marble",
+    "target_path": "device/xiaomi/miuicamera-marble",
+    "branch": "16.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "dhanush281/vendor_xiaomi_miuicamera-marble",
+    "target_path": "vendor/xiaomi/miuicamera-marble",
+    "branch": "fifteen",
+    "remote": "gitlab"
+  },
+  {
+    "repository": "dhanush281/android_hardware_dolby",
+    "target_path": "hardware/dolby",
+    "branch": "16.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "dhanush281/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "16.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "dhanush281/android_kernel_xiaomi_sm8450",
+    "target_path": "kernel/xiaomi/sm8450",
+    "branch": "16.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "dhanush281/android_kernel_xiaomi_sm8450-devicetrees",
+    "target_path": "kernel/xiaomi/sm8450-devicetrees",
+    "branch": "16.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "dhanush281/android_kernel_xiaomi_sm8450-modules",
+    "target_path": "kernel/xiaomi/sm8450-modules",
+    "branch": "16.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "dhanush281/android_vendor_xiaomi_marble",
+    "target_path": "vendor/xiaomi/marble",
+    "branch": "16.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "dhanush281/proprietary_vendor_xiaomi_sm8450-common",
+    "target_path": "vendor/xiaomi/sm8450-common",
+    "branch": "16.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "dhanush281/proprietary_vendor_xiaomi_marble-firmware",
+    "target_path": "vendor/xiaomi/marble-firmware",
+    "branch": "beryl",
+    "remote": "github-non-los"
+  }
+]
