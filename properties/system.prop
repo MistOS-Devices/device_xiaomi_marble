@@ -10,5 +10,12 @@ persist.vendor.camera.ois.video=1
 # Xiaomi
 ro.product.mod_device=marble_global
 
-# Lunaris Maintainer flag
-ro.paranoid.maintainer=Dhanush
+# MistOS
+ro.mist.display=1080 x 2400, 120 hz
+ro.mist.battery=5000mah
+ro.mist.soc=Snapdragon® 7+ Gen 2
+ro.mist.camera=50MP + 8MP + 2MP
+ro.mist.front=16MP
+ro.mist.platform=SM8450
+ro.mist.screen=6.67 • 120Hz • OLED
+ro.mist.device.name=Poco F5

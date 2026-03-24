@@ -16,8 +16,8 @@ $(call inherit-product, vendor/xiaomi/marble/marble-vendor.mk)
 # Call the MiuiCamera setup
 $(call inherit-product-if-exists, device/xiaomi/miuicamera-marble/device.mk)
 
-# call gamebar
-$(call inherit-product, packages/apps/GameBar/gamebar.mk)
+# Call the BCR setup
+$(call inherit-product-if-exists, vendor/bcr/bcr.mk)
 
 # Init scripts
 PRODUCT_COPY_FILES += \
